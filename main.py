@@ -1,4 +1,9 @@
 # Dev: Ali Jafarbeglou - Automated Game Playing Bot
+"""
+This bot is written in Python and uses Selenium webdriver and DateTime. It automatically plays the Cookie game on the website to achieve the highest score.
+• Automated gameplay
+• High score achievement
+"""
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
